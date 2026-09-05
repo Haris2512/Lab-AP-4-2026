@@ -14,7 +14,7 @@
 
    ```sh
 
-   git clone https://github.com/YOUR_USERNAME/LAB-AP-2026.git
+   git clone https://github.com/YOUR_USERNAME/LAB-AP-4-2026.git
 
    ```
 
@@ -55,7 +55,7 @@
 
    ```sh
    CATATAN: NAMA FILE TUGAS ADALAH "TPn_noSoal_NIM.py"
-   CONTOH: TP1_1_H071201068.java , TP2_3_H071201068.py
+   CONTOH: TP1_1_H071201068.py , TP2_3_H071201068.py
    
    git add . #perintah ini memilih seluruh file sekaligus
    # atau
