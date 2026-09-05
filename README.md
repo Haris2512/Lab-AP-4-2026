@@ -14,7 +14,7 @@
 
    ```sh
 
-   git clone https://github.com/YOUR_USERNAME/LAB-MOBILE-9-2026.git
+   git clone https://github.com/YOUR_USERNAME/LAB-AP-2026.git
 
    ```
 
@@ -22,7 +22,7 @@
 
    ```sh
 
-   cd LAB-MOBILE-9-2026
+   cd LAB-AP-4-2026
    git branch NIM_ANDA
    git checkout NIM_ANDA
    git config user.name USERNAME_GITHUB
@@ -54,15 +54,15 @@
 8. Setiap membuat _file_ atau melakukan perubahan, lakukan proses **commit** dengan pesan yang deskriptif
 
    ```sh
-   CATATAN: NAMA FILE TUGAS ADALAH "TPn_noSoal_NIM.java"
-   CONTOH: TP1_1_H071201068.java , TP2_3_H071201068.java
+   CATATAN: NAMA FILE TUGAS ADALAH "TPn_noSoal_NIM.py"
+   CONTOH: TP1_1_H071201068.java , TP2_3_H071201068.py
    
    git add . #perintah ini memilih seluruh file sekaligus
    # atau
-   git add "NIM/Praktikum n/FileYangBerubahAtauDitambahkan.java" #perintah ini memilih file tertentu
+   git add "NIM/Praktikum n/FileYangBerubahAtauDitambahkan.py" #perintah ini memilih file tertentu
    
    SAYA SARANKAN JANGAN PAKAI git add . UNTUK MENGHINDARI PENAMBAHAN UNTUK SEMUA FILE TERMASUK FILE YANG TIDAK DIINGINKAN
-   LEBIH BAIK MEMAKAI git add "NIM/Praktikum n/nama_file.java" UNTUK MENAMBAHKAN FILE
+   LEBIH BAIK MEMAKAI git add "NIM/Praktikum n/nama_file.py" UNTUK MENAMBAHKAN FILE
    
    git status untuk mengecek apakah file sudah ter add atau tidak.
    Jika file yang ingin di add sudah berwarna hijau lanjut ke commit.
@@ -98,7 +98,7 @@
    #3. Scroll ke bagian bawah dan pilih menu Dveloper settings
    #4. Pilih Prsonal access tokens
    #5. Pilih Generate new tokes
-   #6. Tuliskan note untuk token anda (ex: Token for LAB-AP-01-2023)
+   #6. Tuliskan note untuk token anda (ex: Token for LAB-AP-4-2026)
    #7. Atur waktu expiration token anda (sesuai keinginan anda)
    #8. Pada select scope, ceklis box repo
    #9. Klik generate new token
